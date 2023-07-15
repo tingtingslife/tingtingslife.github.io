@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on TINGSLIFE</title>
+    <link>https://tingtingslife.github.io/tags/</link>
+    <description>Recent content in Tags on TINGSLIFE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>
+    <webMaster>sample@gmail.com (Bino Kochumol Varghese)</webMaster>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tingtingslife.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>newsletter</title>
+      <link>https://tingtingslife.github.io/tags/newsletter/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>https://tingtingslife.github.io/tags/newsletter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://tingtingslife.github.io/tags/blog/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>https://tingtingslife.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://tingtingslife.github.io/tags/hugo/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>https://tingtingslife.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://tingtingslife.github.io/tags/markdown/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>https://tingtingslife.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>https://tingtingslife.github.io/tags/syntax/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>https://tingtingslife.github.io/tags/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://tingtingslife.github.io/tags/shortcodes/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>https://tingtingslife.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netlify</title>
+      <link>https://tingtingslife.github.io/tags/netlify/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>https://tingtingslife.github.io/tags/netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stoicism</title>
+      <link>https://tingtingslife.github.io/tags/stoicism/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>https://tingtingslife.github.io/tags/stoicism/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
